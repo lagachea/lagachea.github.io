@@ -1,0 +1,50 @@
+###########################################################
+### Welcome to Beautiful Jekyll!
+### This config file is meant for settings that affect your entire website. When you first
+### set up your website you should go through all these settings and edit them, but after
+### the initial set up you won't need to come back to this file often.
+###########################################################
+
+############################
+# --- Required options --- #
+############################
+
+title: My Portfolio
+
+# Your name to show in the footer
+author: alagache
+
+# Output options (more information on Jekyll's site)
+markdown: kramdown
+paginate: 5
+
+# Fetching remote theme from github
+remote_theme: jekyll/minima
+
+# Setting the skin of the theme to dark
+minima:
+  skin: solarized-dark
+
+# GFM : github format markdown
+kramdown:
+  input: GFM
+
+header_pages:
+  - index.md
+  - CV.md
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
