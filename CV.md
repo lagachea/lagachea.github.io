@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resume
+---
+
 ### **Alexandre LAGACHE**
 60520 Pontarmé  
 [06 33 35 10 44](tel:+33633351044)  
