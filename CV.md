@@ -48,5 +48,5 @@ Octobre 2020 - Mars 2021 *Développeur Front-end*
 ###### **[Faculté de Médecine et Maïeutique](https://fmms.fr/)** Lille
 2015 - 2016 *PACES*
 
-###### [Lycée du Saint Esprit](https://saintesprit.com) Beauvais
+###### **[Lycée du Saint Esprit](https://saintesprit.com)** Beauvais
 2015 *Baccalauréat scientifique, spécialité physique-chimie*
