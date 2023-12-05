@@ -8,34 +8,33 @@ title: Resume
 [06 33 35 10 44](tel:+33633351044)  
 [alagache@protonmail.com](mailto:alagache@protonmail.com)  
 [Profile github](https://github.com/lagachea)  
-Permis B - Véhicule
+[Portfolio](https://lagachea.github.io)  
+Permis B - Véhicule  
 
 ---
 ### **Compétences**
 - Maîtrise de Windows et Linux.
 - Maîtrise du Python, SQL, Typescript, HTML, CSS, Bash, C#, C/C++, Lua.
-- Maîtrise de git et docker.
+- Maîtrise de Git, Docker, Angular.
 - Langues : Anglais (TOEIC 920)
 
 ---
 ### **Expérience Professionnelle**
 ###### NTLM TECHNOLOGIES
 Mars 2021 - Août 2022 *Développeur Logiciel*
-- Analyse des besoins client
-- Création des composants visuels de l'interface utilisateur
-- Amélioration de l'API back-end microservice
-- Intégration des changements de l'API dans les services front-end
+- Création du cahier des charges répondant aux besoins client
+- Création d'un système de prix qui a permis de diminuer les coûts en fonction de l'évolution des prix des fournisseurs
+- Portage et amélioration du système d'administration des ventes vers la nouvelle version du logiciel, assurant un suivi centralisé de la prise de commande au recouvrement
+- Présentation du logiciel au client
 - Administration des bases de données (SQL) et du serveur
-- Echange et présentation du logiciel au client
-- Déploiement et maintenance correctives du logiciel chez le client
-
+- Déploiement et maintenance correctives du logiciel
 ###### NTLM TECHNOLOGIES
 Octobre 2020 - Mars 2021 *Développeur Front-end*
-- Découverte de la programmation asynchrone (utilisation de la librairie RXJS)
 - Apprentissage du language Typescript et du framework Angular
-- Création de composants (ex: recherche et édition d’adresse d'un client)
+- Découverte de la programmation asynchrone avec la librairie RXJS
+- Création de composants permettant la recherche, l'édition ou la création d'un client
 - Intégration des nouvelles fonctionnalités dans l'interface utilisateur
-- Maintenance correctives du logiciel
+- Résolution de plus cinquantaine d'anomalies dans l'interface utilisateur
 
 ---
 ### **Formation**
