@@ -9,13 +9,13 @@ mobile: [06 33 35 10 44](tel:+33633351044)
 email: [alagache@protonmail.com](mailto:alagache@protonmail.com)  
 Profile github: [https://github.com/lagachea](https://github.com/lagachea)  
 Portfolio: [https://lagachea.github.io](https://lagachea.github.io)  
-Permis B - Véhicule  
+Permis B
 
 ---
 ### **Compétences**
 - Maîtrise de Windows et Linux.
 - Maîtrise du Python, SQL, Typescript, HTML, CSS, Bash, C#, C/C++, Lua.
-- Maîtrise de Git, Docker, Angular.
+- Maîtrise de Git, Docker, Kubernetes, Vagrant, Flask, Angular.
 - Langues : Anglais (TOEIC 920)
 
 ---
