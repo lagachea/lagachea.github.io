@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-### **Alexandre LAGACHE**
+### Alexandre LAGACHE
 60520 Pontarmé  
 mobile: [06 33 35 10 44](tel:+33633351044)  
 email: [alagache@protonmail.com](mailto:alagache@protonmail.com)  
@@ -12,14 +12,14 @@ Portfolio: [https://lagachea.github.io](https://lagachea.github.io)
 Permis B
 
 ---
-### **Compétences**
+### Compétences
 - Maîtrise de Windows et Linux.
 - Maîtrise du Python, SQL, Typescript, HTML, CSS, Bash, C#, C/C++, Lua.
 - Maîtrise de Git, Docker, Kubernetes, Vagrant, Flask, Angular.
 - Langues : Anglais (TOEIC 920)
 
 ---
-### **Expérience Professionnelle**
+### Expérience Professionnelle
 ###### NTLM TECHNOLOGIES
 Mars 2021 - Août 2022 *Développeur Logiciel*
 - Création du cahier des charges répondant aux besoins client
@@ -37,7 +37,7 @@ Octobre 2020 - Mars 2021 *Développeur Front-end*
 - Résolution de plus cinquantaine d'anomalies dans l'interface utilisateur
 
 ---
-### **Formation**
+### Formation
 ###### **[École 42](https://42.fr)** Paris
 2018 - 2022 *Formation aux domaines de l’informatique*
 
