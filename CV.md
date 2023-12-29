@@ -27,10 +27,10 @@ Mars 2021 - Août 2022 *Développeur Logiciel*
 - Portage et amélioration du système d'administration des ventes vers la nouvelle version du logiciel, assurant un suivi centralisé de la prise de commande au recouvrement
 - Présentation du logiciel au client
 - Administration des bases de données (SQL) et du serveur
-- Déploiement et maintenance correctives du logiciel
+- Déploiement et maintenance corrective du logiciel
 ###### NTLM TECHNOLOGIES
 Octobre 2020 - Mars 2021 *Développeur Front-end*
-- Apprentissage du language Typescript et du framework Angular
+- Apprentissage du langage Typescript et du framework Angular
 - Découverte de la programmation asynchrone avec la librairie RXJS
 - Création de composants permettant la recherche, l'édition ou la création d'un client
 - Intégration des nouvelles fonctionnalités dans l'interface utilisateur
