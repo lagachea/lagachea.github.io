@@ -6,7 +6,7 @@ title: Resume
 ### Alexandre LAGACHE
 60520 Pontarmé  
 mobile: [06 33 35 10 44](tel:+33633351044)  
-email: [alagache@protonmail.com](mailto:alagache@protonmail.com)  
+email: [lagachea@proton.me](mailto:lagachea@proton.me)  
 Profile github: [https://github.com/lagachea](https://github.com/lagachea)  
 Portfolio: [https://lagachea.github.io](https://lagachea.github.io)  
 Permis B
