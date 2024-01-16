@@ -28,6 +28,7 @@ Mars 2021 - Août 2022 *Développeur Logiciel*
 - Présentation du logiciel au client
 - Administration des bases de données (SQL) et du serveur
 - Déploiement et maintenance corrective du logiciel
+
 ###### NTLM TECHNOLOGIES
 Octobre 2020 - Mars 2021 *Développeur Front-end*
 - Apprentissage du langage Typescript et du framework Angular
