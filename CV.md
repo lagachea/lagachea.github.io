@@ -43,7 +43,7 @@ Octobre 2020 - Mars 2021 *Développeur Front-end*
 2018 - 2022 *Formation aux domaines de l’informatique*
 
 ###### **[Hautes Etudes d’Ingénieurs](https://www.junia.com/fr/junia/programme-grande-ecole-hei/)** Lille
-2018 - 2016 *Classe préparatoire*
+2016 - 2018 *Classe préparatoire*
 
 ###### **[Faculté de Médecine et Maïeutique](https://fmms.fr/)** Lille
 2015 - 2016 *PACES*
