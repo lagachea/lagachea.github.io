@@ -13,29 +13,29 @@ Permis B
 
 ---
 ### Skills
-- Proficient in Windows and Linux.
-- Proficient in Python, SQL, Typescript, HTML, CSS, Bash, C#, C/C++, Lua.
-- Proficient with Git, Docker, Kubernetes, Vagrant, Flask, Angular.
-- Languages : English (TOEIC 920)
+Operating systems: Windows and Linux.
+Programming languages: C/C++, Bash, Typescript, C#, Python.
+Tools and technologies: Git, Docker, Kubernetes, Vagrant, HTML, CSS, Angular, RxJS, SQL, Pandas, Matplotlib, Flask.
+Languages: English (TOEIC 920)
 
 ---
 ### Professional experience
 ###### NTLM TECHNOLOGIES
-March 2021 - August 2022 *Software Developper*
-- Creation of specifications to meet customer requirements
+March 2021 - August 2022 *Full-stack Developper*
+- Creation of specifications to meet customer requirements.
 - Creation of a pricing system that enabled costs to be reduced in line with changes in supplier prices.
 - Porting and improvement of the sales administration system to the new software version, ensuring centralized tracking from order taking to collection.
-- Presentation of the software to the customer
-- Administration of databases (SQL) and server
-- Software deployment and corrective maintenance
+- Presentation of the software to the customer.
+- Administration of databases (SQL) and server.
+- Software deployment and corrective maintenance.
 
 ###### NTLM TECHNOLOGIES
 October 2020 - March 2021 *Front-end Developper*
-- Learn Typescript language and Angular framework
-- Discover asynchronous programming with the RXJS library
-- Creation of components for searching, editing or creating a client
-- Integration of new functionalities into the user interface
-- Resolution of more than fifty user interface anomalies
+- Learn Angular framework.
+- Discover asynchronous programming with the RXJS library.
+- Creation of components for searching, editing or creating a client.
+- Integration of new functionalities into the user interface.
+- Resolution of more than fifty user interface anomalies.
 
 ---
 ### Education

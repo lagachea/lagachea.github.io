@@ -13,29 +13,29 @@ Permis B
 
 ---
 ### Compétences
-- Maîtrise de Windows et Linux.
-- Maîtrise du Python, SQL, Typescript, HTML, CSS, Bash, C#, C/C++, Lua.
-- Maîtrise de Git, Docker, Kubernetes, Vagrant, Flask, Angular.
-- Langues : Anglais (TOEIC 920)
+Systèmes d'exploitation: Windows, Linux.
+Languages de programmation: C/C++, Bash, Typescript, C#, Python.
+Outils et technologies: Git, Docker, Kubernetes, HTML, CSS, Vagrant, Angular, RxJS, SQL, Pandas, Matplotlib, Flask.
+Langues: Anglais (TOEIC 920)
 
 ---
 ### Expérience Professionnelle
 ###### NTLM TECHNOLOGIES
-Mars 2021 - Août 2022 *Développeur Logiciel*
-- Création du cahier des charges répondant aux besoins client
-- Création d'un système de prix qui a permis de diminuer les coûts en fonction de l'évolution des prix des fournisseurs
-- Portage et amélioration du système d'administration des ventes vers la nouvelle version du logiciel, assurant un suivi centralisé de la prise de commande au recouvrement
-- Présentation du logiciel au client
-- Administration des bases de données (SQL) et du serveur
-- Déploiement et maintenance corrective du logiciel
+Mars 2021 - Août 2022 *Développeur Full-stack*
+- Création du cahier des charges répondant aux besoins client.
+- Création d'un système de prix qui a permis de diminuer les coûts en fonction de l'évolution des prix des fournisseurs.
+- Portage et amélioration du système d'administration des ventes vers la nouvelle version du logiciel, assurant un suivi centralisé de la prise de commande au recouvrement.
+- Présentation du logiciel au client.
+- Administration des bases de données (SQL) et du serveur.
+- Déploiement et maintenance corrective du logiciel.
 
 ###### NTLM TECHNOLOGIES
 Octobre 2020 - Mars 2021 *Développeur Front-end*
-- Apprentissage du langage Typescript et du framework Angular
-- Découverte de la programmation asynchrone avec la librairie RXJS
-- Création de composants permettant la recherche, l'édition ou la création d'un client
-- Intégration des nouvelles fonctionnalités dans l'interface utilisateur
-- Résolution de plus cinquantaine d'anomalies dans l'interface utilisateur
+- Apprentissage du framework Angular.
+- Découverte de la programmation asynchrone avec la librairie RXJS.
+- Création de composants permettant la recherche, l'édition ou la création d'un client.
+- Intégration des nouvelles fonctionnalités dans l'interface utilisateur.
+- Résolution de plus cinquantaine d'anomalies dans l'interface utilisateur.
 
 ---
 ### Formation
