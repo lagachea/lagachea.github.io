@@ -26,7 +26,7 @@ Mars 2021 - Août 2022 *Développeur Full-stack*
 - Création d'un système de prix qui a permis de diminuer les coûts en fonction de l'évolution des prix des fournisseurs.
 - Portage et amélioration du système d'administration des ventes vers la nouvelle version du logiciel, assurant un suivi centralisé de la prise de commande au recouvrement.
 - Présentation du logiciel au client.
-- Administration des bases de données (SQL) et du serveur.
+- Administration des bases de données et du serveur.
 - Déploiement et maintenance corrective du logiciel.
 
 ###### NTLM TECHNOLOGIES

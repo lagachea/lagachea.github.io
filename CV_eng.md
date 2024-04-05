@@ -26,7 +26,7 @@ March 2021 - August 2022 *Full-stack Developper*
 - Creation of a pricing system that enabled costs to be reduced in line with changes in supplier prices.
 - Porting and improvement of the sales administration system to the new software version, ensuring centralized tracking from order taking to collection.
 - Presentation of the software to the customer.
-- Administration of databases (SQL) and server.
+- Administration of databases and server.
 - Software deployment and corrective maintenance.
 
 ###### NTLM TECHNOLOGIES
