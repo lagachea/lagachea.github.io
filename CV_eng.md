@@ -13,10 +13,10 @@ Permis B
 
 ---
 ### Skills
-Operating systems: Windows and Linux.
-Programming languages: C/C++, Bash, Typescript, C#, Python.
-Tools and technologies: Git, Docker, Kubernetes, Vagrant, HTML, CSS, Angular, RxJS, SQL, Pandas, Matplotlib, Flask.
-Languages: English (TOEIC 920)
+Operating systems: Windows and Linux. 
+Programming languages: C/C++, Bash, Typescript, C#, Python. 
+Tools and technologies: Git, Docker, Kubernetes, Vagrant, HTML, CSS, Angular, RxJS, SQL, Pandas, Matplotlib, Flask. 
+Languages: English (TOEIC 920) 
 
 ---
 ### Professional experience

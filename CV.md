@@ -13,10 +13,10 @@ Permis B
 
 ---
 ### Compétences
-Systèmes d'exploitation: Windows, Linux.
-Languages de programmation: C/C++, Bash, Typescript, C#, Python.
-Outils et technologies: Git, Docker, Kubernetes, HTML, CSS, Vagrant, Angular, RxJS, SQL, Pandas, Matplotlib, Flask.
-Langues: Anglais (TOEIC 920)
+Systèmes d'exploitation: Windows, Linux. 
+Languages de programmation: C/C++, Bash, Typescript, C#, Python. 
+Outils et technologies: Git, Docker, Kubernetes, HTML, CSS, Vagrant, Angular, RxJS, SQL, Pandas, Matplotlib, Flask. 
+Langues: Anglais (TOEIC 920) 
 
 ---
 ### Expérience Professionnelle
