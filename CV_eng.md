@@ -5,18 +5,18 @@ title: Resume
 
 ### Alexandre LAGACHE
 60520 Pontarmé  
-mobile: [06 33 35 10 44](tel:+33633351044)  
-email: [lagachea@proton.me](mailto:lagachea@proton.me)  
-github profile: [https://github.com/lagachea](https://github.com/lagachea)  
+Mobile: [06 33 35 10 44](tel:+33633351044)  
+Email: [lagachea@proton.me](mailto:lagachea@proton.me)  
+Github profile: [https://github.com/lagachea](https://github.com/lagachea)  
 Portfolio: [https://lagachea.github.io](https://lagachea.github.io)  
 Permis B
 
 ---
 ### Skills
-Operating systems: Windows and Linux. 
-Programming languages: C/C++, Bash, Typescript, C#, Python. 
-Tools and technologies: Git, Docker, Kubernetes, Vagrant, HTML, CSS, Angular, RxJS, SQL, Pandas, Matplotlib, Flask. 
-Languages: English (TOEIC 920) 
+Operating systems: Windows and Linux.  
+Programming languages: C/C++, Bash, Typescript, C#, Python.  
+Tools and technologies: Git, Docker, Kubernetes, Vagrant, HTML, CSS, Angular, RxJS, SQL, Pandas, Matplotlib, Flask.  
+Languages: English (TOEIC 920)  
 
 ---
 ### Professional experience

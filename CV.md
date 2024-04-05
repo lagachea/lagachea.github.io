@@ -5,18 +5,18 @@ title: CV
 
 ### Alexandre LAGACHE
 60520 Pontarmé  
-mobile: [06 33 35 10 44](tel:+33633351044)  
-email: [lagachea@proton.me](mailto:lagachea@proton.me)  
+Mobile: [06 33 35 10 44](tel:+33633351044)  
+Email: [lagachea@proton.me](mailto:lagachea@proton.me)  
 Profile github: [https://github.com/lagachea](https://github.com/lagachea)  
 Portfolio: [https://lagachea.github.io](https://lagachea.github.io)  
 Permis B
 
 ---
 ### Compétences
-Systèmes d'exploitation: Windows, Linux. 
-Languages de programmation: C/C++, Bash, Typescript, C#, Python. 
-Outils et technologies: Git, Docker, Kubernetes, HTML, CSS, Vagrant, Angular, RxJS, SQL, Pandas, Matplotlib, Flask. 
-Langues: Anglais (TOEIC 920) 
+Systèmes d'exploitation: Windows, Linux.  
+Languages de programmation: C/C++, Bash, Typescript, C#, Python.  
+Outils et technologies: Git, Docker, Kubernetes, HTML, CSS, Vagrant, Angular, RxJS, SQL, Pandas, Matplotlib, Flask.  
+Langues: Anglais (TOEIC 920)  
 
 ---
 ### Expérience Professionnelle
