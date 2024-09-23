@@ -30,9 +30,10 @@ kramdown:
   input: GFM
 
 header_pages:
-  - index.md
+  - DSML.md
+  - algorithm-network.md
   - CV.md
-  - CV_eng.md
+  - resume.md
 
 # Exclude these files from production site
 exclude:
