@@ -32,8 +32,6 @@ kramdown:
 header_pages:
   - DSML.md
   - algorithm-network.md
-  - CV.md
-  - resume.md
 
 # Exclude these files from production site
 exclude:

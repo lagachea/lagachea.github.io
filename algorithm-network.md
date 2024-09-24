@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algorithm and network
+title: System and network
 ---
 
 ### [Inception_of_things](https://github.com/plagache/inception_of_things)
