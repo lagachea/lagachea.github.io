@@ -7,7 +7,7 @@ title: System and network
 _from febuary 2023 to november 2023_  
 
 This project is a minimal introduction to Kubernetes.
-This project aims to deepen our knowledge of system administration by using K3s and K3d as well as Vagrant
+This project aims to deepen our knowledge of system administration by using K3s and K3d as well as Vagrant  
 What I learned during this project:
 - Setup a virtual machine using vagrant
 - Deploy applications inside a K3s instance
@@ -19,7 +19,8 @@ What I learned during this project:
 _from november 2022 to may 2023_  
 
 This project is about recoding the ping command.
-Ping is the name of a command that allows to test the accessibility of another machine through the IP network. The command measures also the time taken to receive a response, called round-trip time.
+Ping is the name of a command that allows to test the accessibility of another machine through the IP network.
+The command measures also the time taken to receive a response, called round-trip time.  
 What I learned during this project:
 - Create and handle IP and ICMP packets from scratch
 - Send and recieve packet using a raw socket
