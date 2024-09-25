@@ -3,19 +3,6 @@ layout: page
 title: Datascience x Machine learning
 ---
 
-### [Linear Regression](https://github.com/lagachea/linear-regression)
-_from november 2020 to may 2023_  
-
-The aim of this project is to introduce to the basic concept behind machine learning.
-Here we create a program that predicts the price of a car by using a linear function train with a gradient descent algorithm.  
-What I learned during this project:
-- How to perform a gradient descent
-- How to plot data using matplotlib
-
-![linear-regression](./assets/img/linear-example.gif)
-
----
-
 ### [Datascience X Logistic Regression](https://github.com/plagache/DSLR)
 _from june 2023 to present_  
 
@@ -31,5 +18,18 @@ Using a flask webserver to display some plots:
 
 With a gradio interface to help training, validation and prediction
 ![gradio-interface](assets/img/gradio-interface.png)
+
+---
+
+### [Linear Regression](https://github.com/lagachea/linear-regression)
+_from november 2020 to may 2023_  
+
+The aim of this project is to introduce to the basic concept behind machine learning.
+Here we create a program that predicts the price of a car by using a linear function train with a gradient descent algorithm.  
+What I learned during this project:
+- How to perform a gradient descent
+- How to plot data using matplotlib
+
+![linear-regression](./assets/img/linear-example.gif)
 
 ---
