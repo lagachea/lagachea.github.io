@@ -6,7 +6,7 @@ title: Datascience x Machine learning
 ### [Datascience X Logistic Regression](https://github.com/plagache/DSLR)
 _from june 2023 to present_  
 
-This goal of is to implement a linear classification model with logistic regression.
+The aim of the project is to implement a linear classification model with logistic regression.
 We are tasked to recreate the Sorting Hat of Hogwarts: it was used to determine which of the four school Houses was the best fit for each new student.  
 What I learned during this project:
 - How to perform a logistic regression on a given dataset
