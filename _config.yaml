@@ -30,8 +30,6 @@ kramdown:
   input: GFM
 
 header_pages:
-  - DSML.md
-  - algorithm-network.md
 
 # Exclude these files from production site
 exclude:
