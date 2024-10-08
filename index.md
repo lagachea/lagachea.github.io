@@ -46,7 +46,7 @@ The last image shows both my model and the model form numpy library among the po
 As the name implies [Inception-of-Things](https://github.com/plagache/inception_of_things) is about mastering containerisation and virtual machines deployment from within a virtual machine.  
 - I created two virtual machines using vagrant. Both machine have kubernetes (k3s), one being the server and the other the server worker.
 - I deployed multiple applications inside a kubernetes (k3s) instance, and wrote ingress rules to communicate with each application.
-- I set up a continuous integration of a git repo using argoCD.
+- I set up the continuous integration of a git repo using argoCD.
 
 ---
 
